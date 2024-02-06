@@ -1,0 +1,52 @@
+body {
+  background-image: url(https://img.msg.com/wp-content/uploads/2017/04/NYK_102915_25203-ALT-L-1906x1072.jpg?w=500);
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  background-color: aliceblue;
+  border-radius: 5px;
+  color: #1d428a;
+  font-family: sans-serif;
+  font-size: 22px;
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blueText {
+  color: #1d428a;
+}
+
+.orangeText {
+  color: #f58426;
+}
+
+#KnicksLogo {
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Players {
+  background-color: transparent;
+}
+
+#TicketButton {
+  background-color: transparent;
+}
+
+a {
+  font-size: 40px;
+  background-color: #1d428a;
+  color: #f58426;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+}
